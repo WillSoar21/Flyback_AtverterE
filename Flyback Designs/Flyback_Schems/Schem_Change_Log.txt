@@ -1,0 +1,1 @@
+r1: Getting libraries and symbols onto the schematic
