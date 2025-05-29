@@ -2,3 +2,4 @@ r1: Getting libraries and symbols onto the schematic
 r2:
 r3:
 r4: schematic of the fyback inverter. missing gate driver, atmega connections to pc, and line regulator connections.
+r5: Schematic of the flyback with updated driver, line regulator and ardunio led connections.
