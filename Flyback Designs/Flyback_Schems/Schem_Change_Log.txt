@@ -9,3 +9,4 @@ r7: Schematic rough draft finished, still needs some component values (caps)
 need to add parallel caps on input/output
 r8:
 r9: added final component values and put on finishing touches
+r10: differentiated power and signal grounds
