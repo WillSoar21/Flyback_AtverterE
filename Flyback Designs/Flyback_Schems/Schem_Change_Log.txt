@@ -10,3 +10,4 @@ need to add parallel caps on input/output
 r8:
 r9: added final component values and put on finishing touches
 r10: differentiated power and signal grounds
+r11: added input and output caps in parallel to reduce ESR
