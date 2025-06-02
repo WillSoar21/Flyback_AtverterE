@@ -7,3 +7,5 @@ r6: added 10V regulator (UC3836D)
 added net labels and removed some wiring
 r7: Schematic rough draft finished, still needs some component values (caps)
 need to add parallel caps on input/output
+r8:
+r9: added final component values and put on finishing touches
