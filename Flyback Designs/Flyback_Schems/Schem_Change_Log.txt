@@ -11,3 +11,4 @@ r8:
 r9: added final component values and put on finishing touches
 r10: differentiated power and signal grounds
 r11: added input and output caps in parallel to reduce ESR
+r12: added footprints to all component on the schematic
