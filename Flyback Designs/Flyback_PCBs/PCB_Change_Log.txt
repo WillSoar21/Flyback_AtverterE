@@ -1,1 +1,1 @@
-r1: 
+r1: created project for collaboration between schematic file and PCB file. Several footprints were missing or not linked, will need to be addressed in r2 
