@@ -1,0 +1,695 @@
+Info: Processing symbol 'C2:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'CSup1:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'Cin2:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C11:'.
+Info: Processing symbol 'R2:'.
+Info: Processing symbol 'CDTR1:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'GateDriver1:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm'.
+Info: Processing symbol 'Cout3:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'I_Sensor2:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm'.
+Info: Processing symbol 'I_InHeader1:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'I_outHeader1:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'Csnub1:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'I_Sensor1:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm'.
+Info: Processing symbol 'Q1:Package_TO_SOT_THT:TO-220-3_Vertical'.
+Info: Processing symbol 'COsc2:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'GND_Vin(+)1:TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm'.
+Info: Processing symbol 'Cin3:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'Header1:FlybackVE:FTDI_USB_TTL_Header'.
+Info: Processing symbol 'Cin1:Capacitor_SMD:CP_Elec_5x4.5'.
+Info: Processing symbol 'Cout2:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_1206_3216Metric'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'D2:Package_TO_SOT_SMD:TO-252-3_TabPin2'.
+Info: Processing symbol 'PowGNDs1:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'Cout4:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'D1:Package_TO_SOT_SMD:TO-252-3_TabPin2'.
+Info: Processing symbol 'D3:FlybackVE:LED_3pin_P2.54mm'.
+Info: Processing symbol 'MAX6765:FlybackVE:Max6765'.
+Info: Processing symbol 'D4:FlybackVE:LED_3pin_P2.54mm'.
+Info: Processing symbol 'Cout1:Capacitor_SMD:CP_Elec_5x4.5'.
+Info: Processing symbol 'COsc1:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'J1:FlybackVE:Raspberry_Pi_Zero_and_Four'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'RDTR1:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'RGate1:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'RN1:Resistor_THT:R_Array_SIP6'.
+Info: Processing symbol 'RN2:Resistor_THT:R_Array_SIP8'.
+Info: Processing symbol 'RN3:Resistor_THT:R_Array_SIP6'.
+Info: Processing symbol 'RsenseH_1:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'RsenseH_2:Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'.
+Info: Processing symbol 'RsenseL_1:'.
+Info: Processing symbol 'RsenseL_2:'.
+Info: Processing symbol 'Rsnub1:Resistor_SMD:R_0805_2012Metric'.
+Info: Processing symbol 'SignGNDs1:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'T1:FlybackVE:transformers'.
+Info: Processing symbol 'TestGate1:Connector_JST:JST_XH_B1B-XH-AM_1x01_P2.50mm_Vertical'.
+Info: Processing symbol 'TestVcc1:Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical'.
+Info: Processing symbol 'U1:Package_DIP:DIP-28_W7.62mm'.
+Info: Processing symbol 'U4:Package_DIP:DIP-14_W7.62mm_LongPads'.
+Info: Processing symbol 'UC3836D1:FlybackVE:UC2836'.
+Info: Processing symbol 'Vout(+)_GND1:TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm'.
+Info: Processing symbol 'Y1:FlybackVE:oscillator'.
+Add net Net-(I_Sensor1-FILTER).
+Connected C3 pin 2 to Net-(I_Sensor1-FILTER).
+Added C4 (footprint 'Capacitor_SMD:C_1206_3216Metric').
+Changed REF** reference designator to C4.
+Changed C4 value from C_1206_3216Metric to 30u.
+Updated C4 symbol association from  to /35210483-3322-4f55-98e3-959ce9467fa8.
+Updated C4 fields.
+Updated C4 sheetname to '/'.
+Updated C4 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated C4 footprint filters to 'C_*'.
+Add net PGND.
+Connected C4 pin 2 to PGND.
+Add net /+10Vcc.
+Connected C4 pin 1 to /+10Vcc.
+Added C5 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C5.
+Changed C5 value from C_0805_2012Metric to 0.1u.
+Updated C5 symbol association from  to /88f19154-917d-49c9-b4c2-e5908f7e6c2f.
+Updated C5 fields.
+Updated C5 sheetname to '/'.
+Updated C5 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated C5 footprint filters to 'C_*'.
+Connected C5 pin 1 to /+5Vcc.
+Connected C5 pin 2 to AGND.
+Added C6 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C6.
+Changed C6 value from C_0805_2012Metric to 1n.
+Updated C6 symbol association from  to /f23b16f4-a516-4139-be38-2938a549098e.
+Updated C6 fields.
+Updated C6 sheetname to '/'.
+Updated C6 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated C6 footprint filters to 'C_*'.
+Connected C6 pin 1 to AGND.
+Add net Net-(I_Sensor2-FILTER).
+Connected C6 pin 2 to Net-(I_Sensor2-FILTER).
+Added C7 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C7.
+Changed C7 value from C_0805_2012Metric to 10u.
+Updated C7 symbol association from  to /dba4d305-2847-490f-9723-ca77fae9cbc8.
+Updated C7 fields.
+Updated C7 sheetname to '/'.
+Updated C7 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated C7 footprint filters to 'C_*'.
+Connected C7 pin 2 to /+10Vcc.
+Add net Net-(MAX6765-ENABLE).
+Connected C7 pin 1 to Net-(MAX6765-ENABLE).
+Added C8 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C8.
+Changed C8 value from C_0805_2012Metric to 0.1u.
+Updated C8 symbol association from  to /105b48e0-5257-4aa9-8bef-29acd32c8b60.
+Updated C8 fields.
+Updated C8 sheetname to '/'.
+Updated C8 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated C8 footprint filters to 'C_*'.
+Add net Net-(MAX6765-OUT).
+Connected C8 pin 1 to Net-(MAX6765-OUT).
+Connected C8 pin 2 to /+5Vcc.
+Added C9 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C9.
+Changed C9 value from C_0805_2012Metric to 10u.
+Updated C9 symbol association from  to /9f537353-d243-449e-aba5-a9ab8b727495.
+Updated C9 fields.
+Updated C9 sheetname to '/'.
+Updated C9 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated C9 footprint filters to 'C_*'.
+Connected C9 pin 1 to PGND.
+Connected C9 pin 2 to /+10Vcc.
+Added C10 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to C10.
+Changed C10 value from C_0805_2012Metric to 0.1u.
+Updated C10 symbol association from  to /d013c8b1-94ac-4755-bfda-0deab9093405.
+Updated C10 fields.
+Updated C10 sheetname to '/'.
+Updated C10 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated C10 footprint filters to 'C_*'.
+Connected C10 pin 2 to /+10Vcc.
+Connected C10 pin 1 to PGND.
+Added CDTR1 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to CDTR1.
+Changed CDTR1 value from C_0402_1005Metric to 1uF.
+Updated CDTR1 symbol association from  to /25e050b1-bf51-43e1-8167-b242ce5bad8b.
+Updated CDTR1 fields.
+Updated CDTR1 sheetname to '/'.
+Updated CDTR1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated CDTR1 footprint filters to 'C_*'.
+Add net /DTR.
+Connected CDTR1 pin 2 to /DTR.
+Add net /!Reset.
+Connected CDTR1 pin 1 to /!Reset.
+Added Cin1 (footprint 'Capacitor_SMD:CP_Elec_5x4.5').
+Changed REF** reference designator to Cin1.
+Changed Cin1 value from CP_Elec_5x4.5 to 10u.
+Updated Cin1 symbol association from  to /664ed20f-9fb4-4119-ac2b-23b55d8a0607.
+Updated Cin1 fields.
+Updated Cin1 sheetname to '/'.
+Updated Cin1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated Cin1 footprint filters to 'CP_*'.
+Add net Net-(D1-A).
+Connected Cin1 pin 2 to Net-(D1-A).
+Add net /Vin(+).
+Connected Cin1 pin 1 to /Vin(+).
+Added Cin2 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to Cin2.
+Changed Cin2 value from C_0805_2012Metric to 5u.
+Updated Cin2 symbol association from  to /45742111-76bd-4faf-b4b2-5cb60ea3aa5e.
+Updated Cin2 fields.
+Updated Cin2 sheetname to '/'.
+Updated Cin2 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated Cin2 footprint filters to 'C_*'.
+Connected Cin2 pin 2 to Net-(D1-A).
+Connected Cin2 pin 1 to /Vin(+).
+Added Cin3 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to Cin3.
+Changed Cin3 value from C_0805_2012Metric to 5u.
+Updated Cin3 symbol association from  to /00b53061-bbdf-4cd6-8327-9b2b7d59e55e.
+Updated Cin3 fields.
+Updated Cin3 sheetname to '/'.
+Updated Cin3 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated Cin3 footprint filters to 'C_*'.
+Connected Cin3 pin 1 to /Vin(+).
+Connected Cin3 pin 2 to Net-(D1-A).
+Added COsc1 (footprint 'Capacitor_SMD:C_0201_0603Metric').
+Changed REF** reference designator to COsc1.
+Changed COsc1 value from C_0201_0603Metric to 22pF.
+Updated COsc1 symbol association from  to /f58c9f19-b051-476f-b278-35306a6c6e17.
+Updated COsc1 sheetname to '/'.
+Updated COsc1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated COsc1 footprint filters to 'C_*'.
+Add net Net-(U1-XTAL2/PB7).
+Connected COsc1 pin 2 to Net-(U1-XTAL2/PB7).
+Connected COsc1 pin 1 to AGND.
+Added COsc2 (footprint 'Capacitor_SMD:C_0201_0603Metric').
+Changed REF** reference designator to COsc2.
+Changed COsc2 value from C_0201_0603Metric to 22pF.
+Updated COsc2 symbol association from  to /10658e3b-659f-4090-8135-56b0a0418707.
+Updated COsc2 sheetname to '/'.
+Updated COsc2 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated COsc2 footprint filters to 'C_*'.
+Connected COsc2 pin 1 to AGND.
+Add net Net-(U1-XTAL1/PB6).
+Connected COsc2 pin 2 to Net-(U1-XTAL1/PB6).
+Added Cout1 (footprint 'Capacitor_SMD:CP_Elec_5x4.5').
+Changed REF** reference designator to Cout1.
+Changed Cout1 value from CP_Elec_5x4.5 to 15u.
+Updated Cout1 symbol association from  to /dca4f643-ccce-4ced-80c6-0ce90d5c376b.
+Updated Cout1 fields.
+Updated Cout1 sheetname to '/'.
+Updated Cout1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated Cout1 footprint filters to 'CP_*'.
+Add net Net-(D2-K).
+Connected Cout1 pin 1 to Net-(D2-K).
+Add net Net-(T1-SA).
+Connected Cout1 pin 2 to Net-(T1-SA).
+Added Cout2 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to Cout2.
+Changed Cout2 value from C_0805_2012Metric to 5u.
+Updated Cout2 symbol association from  to /4418cfcf-2107-40c5-bc72-8d5ee4498df4.
+Updated Cout2 fields.
+Updated Cout2 sheetname to '/'.
+Updated Cout2 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated Cout2 footprint filters to 'C_*'.
+Connected Cout2 pin 2 to Net-(T1-SA).
+Connected Cout2 pin 1 to Net-(D2-K).
+Added Cout3 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to Cout3.
+Changed Cout3 value from C_0805_2012Metric to 5u.
+Updated Cout3 symbol association from  to /e5e4f9e5-3b57-4f4e-b378-7761c5fe8e5e.
+Updated Cout3 fields.
+Updated Cout3 sheetname to '/'.
+Updated Cout3 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated Cout3 footprint filters to 'C_*'.
+Connected Cout3 pin 1 to Net-(D2-K).
+Connected Cout3 pin 2 to Net-(T1-SA).
+Added Cout4 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to Cout4.
+Changed Cout4 value from C_0805_2012Metric to 5u.
+Updated Cout4 symbol association from  to /a7ee3609-6de0-487d-8be9-e6e8e2880365.
+Updated Cout4 fields.
+Updated Cout4 sheetname to '/'.
+Updated Cout4 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated Cout4 footprint filters to 'C_*'.
+Connected Cout4 pin 2 to Net-(T1-SA).
+Connected Cout4 pin 1 to Net-(D2-K).
+Added Csnub1 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Changed REF** reference designator to Csnub1.
+Changed Csnub1 value from C_0805_2012Metric to 4n.
+Updated Csnub1 symbol association from  to /55c6f4a0-38d4-4dfd-b5ce-2c8b711e63e9.
+Updated Csnub1 fields.
+Updated Csnub1 sheetname to '/'.
+Updated Csnub1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated Csnub1 footprint filters to 'CP_*'.
+Add net Net-(D1-K).
+Connected Csnub1 pin 2 to Net-(D1-K).
+Connected Csnub1 pin 1 to /Vin(+).
+Added CSup1 (footprint 'Capacitor_SMD:C_0402_1005Metric').
+Changed REF** reference designator to CSup1.
+Changed CSup1 value from C_0402_1005Metric to 1uF.
+Updated CSup1 symbol association from  to /418f4fca-4457-4f76-9f00-883c5e1ce3d1.
+Updated CSup1 fields.
+Updated CSup1 sheetname to '/'.
+Updated CSup1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated CSup1 footprint filters to 'C_*'.
+Connected CSup1 pin 1 to /+5Vcc.
+Connected CSup1 pin 2 to PGND.
+Added D1 (footprint 'Package_TO_SOT_SMD:TO-252-3_TabPin2').
+Changed REF** reference designator to D1.
+Changed D1 value from TO-252-3_TabPin2 to D.
+Updated D1 symbol association from  to /3cfac95b-80e3-455c-91d5-ed4ee98b3b31.
+Updated D1 fields.
+Updated D1 sheetname to '/'.
+Updated D1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated D1 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D1 pin 2 to Net-(D1-A).
+Connected D1 pin 1 to Net-(D1-K).
+Connected D1 pin 2 to Net-(D1-A).
+Added D2 (footprint 'Package_TO_SOT_SMD:TO-252-3_TabPin2').
+Changed REF** reference designator to D2.
+Changed D2 value from TO-252-3_TabPin2 to D.
+Updated D2 symbol association from  to /fc2629db-0ef0-4e6a-b95f-089dfe6f4b47.
+Updated D2 fields.
+Updated D2 sheetname to '/'.
+Updated D2 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated D2 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D2-A).
+Connected D2 pin 2 to Net-(D2-A).
+Connected D2 pin 1 to Net-(D2-K).
+Connected D2 pin 2 to Net-(D2-A).
+Added GateDriver1 (footprint 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm').
+Changed REF** reference designator to GateDriver1.
+Changed GateDriver1 value from SOIC-8_3.9x4.9mm_P1.27mm to TC4426xOA.
+Updated GateDriver1 symbol association from  to /1251d1c8-4021-4220-a0f8-e42e6fddb9bb.
+Updated GateDriver1 fields.
+Updated GateDriver1 sheetname to '/'.
+Updated GateDriver1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated GateDriver1 footprint filters to '*SO*3.9*4.*P1.27mm*'.
+Connected GateDriver1 pin 6 to /+10Vcc.
+Add net unconnected-(GateDriver1-NC-Pad8).
+Connected GateDriver1 pin 8 to unconnected-(GateDriver1-NC-Pad8).
+Add net /PWM.
+Connected GateDriver1 pin 2 to /PWM.
+Add net unconnected-(GateDriver1-NC-Pad1).
+Connected GateDriver1 pin 1 to unconnected-(GateDriver1-NC-Pad1).
+Add net Net-(GateDriver1-~{OUT_A}).
+Connected GateDriver1 pin 7 to Net-(GateDriver1-~{OUT_A}).
+Add net unconnected-(GateDriver1-~{OUT_B}-Pad5).
+Connected GateDriver1 pin 5 to unconnected-(GateDriver1-~{OUT_B}-Pad5).
+Add net unconnected-(GateDriver1-IN_B-Pad4).
+Connected GateDriver1 pin 4 to unconnected-(GateDriver1-IN_B-Pad4).
+Connected GateDriver1 pin 3 to PGND.
+Added GND_Vin(+)1 (footprint 'TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm').
+Changed REF** reference designator to GND_Vin(+)1.
+Changed GND_Vin(+)1 value from TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm to Screw_Terminal_01x02.
+Updated GND_Vin(+)1 symbol association from  to /a5cfa89d-7851-4157-8e78-865d70bb3e0e.
+Updated GND_Vin(+)1 fields.
+Updated GND_Vin(+)1 sheetname to '/'.
+Updated GND_Vin(+)1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated GND_Vin(+)1 footprint filters to 'TerminalBlock*:*'.
+Connected GND_Vin(+)1 pin 1 to /Vin(+).
+Connected GND_Vin(+)1 pin 2 to PGND.
+Added I_InHeader1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical').
+Changed REF** reference designator to I_InHeader1.
+Changed I_InHeader1 value from PinHeader_1x04_P2.54mm_Vertical to Conn_01x04_Pin.
+Updated I_InHeader1 symbol association from  to /36de12ce-136c-454f-9762-0ab2e9e6ef0a.
+Updated I_InHeader1 fields.
+Updated I_InHeader1 sheetname to '/'.
+Updated I_InHeader1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated I_InHeader1 footprint filters to 'Connector*:*_1x??_*'.
+Connected I_InHeader1 pin 2 to /Vin(+).
+Connected I_InHeader1 pin 3 to /Vin(+).
+Connected I_InHeader1 pin 1 to /Vin(+).
+Connected I_InHeader1 pin 4 to /Vin(+).
+Added I_outHeader1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical').
+Changed REF** reference designator to I_outHeader1.
+Changed I_outHeader1 value from PinHeader_1x04_P2.54mm_Vertical to Conn_01x04_Pin.
+Updated I_outHeader1 symbol association from  to /2894474b-a7e5-4ab1-b7ec-009d9a7ac8cf.
+Updated I_outHeader1 fields.
+Updated I_outHeader1 sheetname to '/'.
+Updated I_outHeader1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated I_outHeader1 footprint filters to 'Connector*:*_1x??_*'.
+Add net Net-(I_outHeader1-Pin_1).
+Connected I_outHeader1 pin 2 to Net-(I_outHeader1-Pin_1).
+Connected I_outHeader1 pin 3 to Net-(I_outHeader1-Pin_1).
+Connected I_outHeader1 pin 4 to Net-(I_outHeader1-Pin_1).
+Connected I_outHeader1 pin 1 to Net-(I_outHeader1-Pin_1).
+Added I_Sensor1 (footprint 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm').
+Changed REF** reference designator to I_Sensor1.
+Changed I_Sensor1 value from SOIC-8_3.9x4.9mm_P1.27mm to ACS712xLCTR-05B.
+Updated I_Sensor1 symbol association from  to /26692aec-fa24-4cc5-90bf-f5c8aa0d5290.
+Updated I_Sensor1 fields.
+Updated I_Sensor1 sheetname to '/'.
+Updated I_Sensor1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated I_Sensor1 footprint filters to 'SOIC*3.9x4.9m*P1.27mm*'.
+Add net Net-(T1-AA).
+Connected I_Sensor1 pin 3 to Net-(T1-AA).
+Connected I_Sensor1 pin 1 to /Vin(+).
+Connected I_Sensor1 pin 4 to Net-(T1-AA).
+Connected I_Sensor1 pin 5 to AGND.
+Connected I_Sensor1 pin 6 to Net-(I_Sensor1-FILTER).
+Connected I_Sensor1 pin 8 to /+5Vcc.
+Add net /IH.
+Connected I_Sensor1 pin 7 to /IH.
+Connected I_Sensor1 pin 2 to /Vin(+).
+Added I_Sensor2 (footprint 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm').
+Changed REF** reference designator to I_Sensor2.
+Changed I_Sensor2 value from SOIC-8_3.9x4.9mm_P1.27mm to ACS712xLCTR-05B.
+Updated I_Sensor2 symbol association from  to /4811d58d-a4b6-4780-911e-81f2c4a8dd83.
+Updated I_Sensor2 fields.
+Updated I_Sensor2 sheetname to '/'.
+Updated I_Sensor2 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated I_Sensor2 footprint filters to 'SOIC*3.9x4.9m*P1.27mm*'.
+Connected I_Sensor2 pin 8 to /+5Vcc.
+Add net /IL.
+Connected I_Sensor2 pin 7 to /IL.
+Connected I_Sensor2 pin 6 to Net-(I_Sensor2-FILTER).
+Connected I_Sensor2 pin 5 to AGND.
+Connected I_Sensor2 pin 3 to Net-(D2-A).
+Connected I_Sensor2 pin 2 to Net-(I_outHeader1-Pin_1).
+Connected I_Sensor2 pin 4 to Net-(D2-A).
+Connected I_Sensor2 pin 1 to Net-(I_outHeader1-Pin_1).
+Added PowGNDs1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical').
+Changed REF** reference designator to PowGNDs1.
+Changed PowGNDs1 value from PinHeader_1x04_P2.54mm_Vertical to Conn_01x04_Pin.
+Updated PowGNDs1 symbol association from  to /ede33400-9fbc-4d98-b38a-e612091e01c5.
+Updated PowGNDs1 fields.
+Updated PowGNDs1 sheetname to '/'.
+Updated PowGNDs1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated PowGNDs1 footprint filters to 'Connector*:*_1x??_*'.
+Connected PowGNDs1 pin 4 to PGND.
+Connected PowGNDs1 pin 3 to PGND.
+Connected PowGNDs1 pin 1 to PGND.
+Connected PowGNDs1 pin 2 to PGND.
+Added Q1 (footprint 'Package_TO_SOT_THT:TO-220-3_Vertical').
+Changed REF** reference designator to Q1.
+Changed Q1 value from TO-220-3_Vertical to IRF540N.
+Updated Q1 symbol association from  to /dbf4e76e-dcbb-4273-b865-56c9ec7963c6.
+Updated Q1 fields.
+Updated Q1 sheetname to '/'.
+Updated Q1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated Q1 footprint filters to 'TO?220*'.
+Connected Q1 pin 2 to Net-(D1-A).
+Connected Q1 pin 3 to PGND.
+Add net Net-(Q1-G).
+Connected Q1 pin 1 to Net-(Q1-G).
+Added C2 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Added R3 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R3.
+Changed R3 value from R_0805_2012Metric to 7500.
+Updated R3 symbol association from  to /47b200e6-63cb-43ec-bd33-2233ea0d7399.
+Updated R3 fields.
+Updated R3 sheetname to '/'.
+Updated R3 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated R3 footprint filters to 'R_*'.
+Add net Net-(UC3836D1-Feedback).
+Connected R3 pin 2 to Net-(UC3836D1-Feedback).
+Connected R3 pin 1 to /+10Vcc.
+Changed REF** reference designator to C2.
+Added R4 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to R4.
+Changed R4 value from R_0805_2012Metric to 2.5k.
+Updated R4 symbol association from  to /afbe5ff9-02d3-4107-a868-9f69cb9919a4.
+Updated R4 fields.
+Updated R4 sheetname to '/'.
+Updated R4 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated R4 footprint filters to 'R_*'.
+Connected R4 pin 1 to PGND.
+Connected R4 pin 2 to Net-(UC3836D1-Feedback).
+Changed C2 value from C_0805_2012Metric to 0.1u.
+Added RDTR1 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to RDTR1.
+Changed RDTR1 value from R_0805_2012Metric to 10k.
+Updated RDTR1 symbol association from  to /41b9caa8-ae99-4e87-8d52-52fe91767436.
+Updated RDTR1 fields.
+Updated RDTR1 sheetname to '/'.
+Updated RDTR1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated RDTR1 footprint filters to 'R_*'.
+Connected RDTR1 pin 2 to /+5Vcc.
+Connected RDTR1 pin 1 to /!Reset.
+Updated C2 symbol association from  to /9a837b79-2428-4d36-afdf-7e66be499741.
+Added RGate1 (footprint 'Resistor_SMD:R_0603_1608Metric').
+Changed REF** reference designator to RGate1.
+Changed RGate1 value from R_0603_1608Metric to 0.
+Updated RGate1 symbol association from  to /7f07d558-da08-4592-9866-c9c46f52bfc4.
+Updated RGate1 fields.
+Updated RGate1 sheetname to '/'.
+Updated RGate1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated RGate1 footprint filters to 'R_*'.
+Connected RGate1 pin 1 to Net-(GateDriver1-~{OUT_A}).
+Connected RGate1 pin 2 to Net-(Q1-G).
+Updated C2 fields.
+Added RN1 (footprint 'Resistor_THT:R_Array_SIP6').
+Changed REF** reference designator to RN1.
+Changed RN1 value from R_Array_SIP6 to R_Network05.
+Updated RN1 symbol association from  to /57cb69d7-f779-40ce-ad82-cf4788c5406c.
+Updated RN1 fields.
+Updated RN1 sheetname to '/'.
+Updated RN1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated RN1 footprint filters to 'R?Array?SIP*'.
+Add net unconnected-(RN1-common-Pad1).
+Connected RN1 pin 1 to unconnected-(RN1-common-Pad1).
+Add net unconnected-(RN1-R3-Pad4).
+Connected RN1 pin 4 to unconnected-(RN1-R3-Pad4).
+Add net unconnected-(RN1-R4-Pad5).
+Connected RN1 pin 5 to unconnected-(RN1-R4-Pad5).
+Add net unconnected-(RN1-R1-Pad2).
+Connected RN1 pin 2 to unconnected-(RN1-R1-Pad2).
+Add net unconnected-(RN1-R5-Pad6).
+Connected RN1 pin 6 to unconnected-(RN1-R5-Pad6).
+Add net unconnected-(RN1-R2-Pad3).
+Connected RN1 pin 3 to unconnected-(RN1-R2-Pad3).
+Updated C2 sheetname to '/'.
+Added RN2 (footprint 'Resistor_THT:R_Array_SIP8').
+Changed REF** reference designator to RN2.
+Changed RN2 value from R_Array_SIP8 to R_Pack04_SIP.
+Updated RN2 symbol association from  to /cfbad78f-148d-42d0-abc6-d4d68b2bf02c.
+Updated RN2 fields.
+Updated RN2 sheetname to '/'.
+Updated RN2 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated RN2 footprint filters to 'R?Array?SIP*'.
+Add net /Red1.
+Connected RN2 pin 1 to /Red1.
+Add net /Green1.
+Connected RN2 pin 3 to /Green1.
+Add net Net-(D3-A1).
+Connected RN2 pin 2 to Net-(D3-A1).
+Add net Net-(D3-A2).
+Connected RN2 pin 4 to Net-(D3-A2).
+Add net Net-(D4-A2).
+Connected RN2 pin 8 to Net-(D4-A2).
+Add net /Red2.
+Connected RN2 pin 5 to /Red2.
+Add net /Green2.
+Connected RN2 pin 7 to /Green2.
+Add net Net-(D4-A1).
+Connected RN2 pin 6 to Net-(D4-A1).
+Updated C2 sheetfile to 'Atverter_Fly.kicad_sch'.
+Added RN3 (footprint 'Resistor_THT:R_Array_SIP6').
+Changed REF** reference designator to RN3.
+Changed RN3 value from R_Array_SIP6 to R_Network05.
+Updated RN3 symbol association from  to /269acd45-da5c-448a-bc48-ad69d534d0b7.
+Updated RN3 fields.
+Updated RN3 sheetname to '/'.
+Updated RN3 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated RN3 footprint filters to 'R?Array?SIP*'.
+Add net unconnected-(RN3-R5-Pad6).
+Connected RN3 pin 6 to unconnected-(RN3-R5-Pad6).
+Add net unconnected-(RN3-R2-Pad3).
+Connected RN3 pin 3 to unconnected-(RN3-R2-Pad3).
+Add net unconnected-(RN3-common-Pad1).
+Connected RN3 pin 1 to unconnected-(RN3-common-Pad1).
+Add net unconnected-(RN3-R3-Pad4).
+Connected RN3 pin 4 to unconnected-(RN3-R3-Pad4).
+Add net unconnected-(RN3-R4-Pad5).
+Connected RN3 pin 5 to unconnected-(RN3-R4-Pad5).
+Add net unconnected-(RN3-R1-Pad2).
+Connected RN3 pin 2 to unconnected-(RN3-R1-Pad2).
+Updated C2 footprint filters to 'C_*'.
+Added RsenseH_1 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to RsenseH_1.
+Changed RsenseH_1 value from R_0805_2012Metric to 120k.
+Updated RsenseH_1 symbol association from  to /0f251101-8b47-4416-813b-eb8ce8a3f0bb.
+Updated RsenseH_1 fields.
+Updated RsenseH_1 sheetname to '/'.
+Updated RsenseH_1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated RsenseH_1 footprint filters to 'R_*'.
+Connected RsenseH_1 pin 2 to Net-(T1-AA).
+Add net /VH.
+Connected RsenseH_1 pin 1 to /VH.
+Add net /+5Vcc.
+Added RsenseH_2 (footprint 'Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder').
+Changed REF** reference designator to RsenseH_2.
+Changed RsenseH_2 value from R_0402_1005Metric_Pad0.72x0.64mm_HandSolder to 10k.
+Updated RsenseH_2 symbol association from  to /70b6a884-782b-4330-8080-cc6d9e38cbfd.
+Updated RsenseH_2 fields.
+Updated RsenseH_2 sheetname to '/'.
+Updated RsenseH_2 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated RsenseH_2 footprint filters to 'R_*'.
+Connected RsenseH_2 pin 1 to Net-(D1-A).
+Connected RsenseH_2 pin 2 to /VH.
+Connected C2 pin 1 to /+5Vcc.
+Add net AGND.
+Connected C2 pin 2 to AGND.
+Added Rsnub1 (footprint 'Resistor_SMD:R_0805_2012Metric').
+Changed REF** reference designator to Rsnub1.
+Changed Rsnub1 value from R_0805_2012Metric to 110.
+Updated Rsnub1 symbol association from  to /c172b573-78ef-4fd3-8591-92d95cbf782a.
+Updated Rsnub1 fields.
+Updated Rsnub1 sheetname to '/'.
+Updated Rsnub1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated Rsnub1 footprint filters to 'R_*'.
+Connected Rsnub1 pin 1 to /Vin(+).
+Connected Rsnub1 pin 2 to Net-(D1-K).
+Added C3 (footprint 'Capacitor_SMD:C_0805_2012Metric').
+Added SignGNDs1 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical').
+Changed REF** reference designator to SignGNDs1.
+Changed SignGNDs1 value from PinHeader_1x04_P2.54mm_Vertical to Conn_01x04_Pin.
+Updated SignGNDs1 symbol association from  to /81bfcce0-ea32-4982-9494-63b7654997eb.
+Updated SignGNDs1 fields.
+Updated SignGNDs1 sheetname to '/'.
+Updated SignGNDs1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated SignGNDs1 footprint filters to 'Connector*:*_1x??_*'.
+Connected SignGNDs1 pin 4 to AGND.
+Connected SignGNDs1 pin 3 to AGND.
+Connected SignGNDs1 pin 2 to AGND.
+Connected SignGNDs1 pin 1 to AGND.
+Changed REF** reference designator to C3.
+Changed C3 value from C_0805_2012Metric to 1n.
+Added TestGate1 (footprint 'Connector_JST:JST_XH_B1B-XH-AM_1x01_P2.50mm_Vertical').
+Changed REF** reference designator to TestGate1.
+Changed TestGate1 value from JST_XH_B1B-XH-AM_1x01_P2.50mm_Vertical to Conn_01x01_Pin.
+Updated TestGate1 symbol association from  to /11afac55-6889-4c06-8e12-dbc395219238.
+Updated TestGate1 fields.
+Updated TestGate1 sheetname to '/'.
+Updated TestGate1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated TestGate1 footprint filters to 'Connector*:*_1x??_*'.
+Connected TestGate1 pin 1 to Net-(Q1-G).
+Updated C3 symbol association from  to /2d761ef0-0e83-4b68-8182-f4e02140f41b.
+Added TestVcc1 (footprint 'Connector_PinHeader_1.00mm:PinHeader_1x01_P1.00mm_Vertical').
+Changed REF** reference designator to TestVcc1.
+Changed TestVcc1 value from PinHeader_1x01_P1.00mm_Vertical to Conn_01x01_Pin.
+Updated TestVcc1 symbol association from  to /98d81268-43b4-456b-b03f-82fb73f6bb09.
+Updated TestVcc1 fields.
+Updated TestVcc1 sheetname to '/'.
+Updated TestVcc1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated TestVcc1 footprint filters to 'Connector*:*_1x??_*'.
+Connected TestVcc1 pin 1 to /+5Vcc.
+Updated C3 fields.
+Added U1 (footprint 'Package_DIP:DIP-28_W7.62mm').
+Changed REF** reference designator to U1.
+Changed U1 value from DIP-28_W7.62mm to ATmega328P-P.
+Updated U1 symbol association from  to /5df88273-adf0-4464-b6f1-de0679313a54.
+Updated U1 fields.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated U1 footprint filters to 'DIP*W7.62mm*'.
+Connected U1 pin 15 to /PWM.
+Add net unconnected-(U1-PC5-Pad28).
+Connected U1 pin 28 to unconnected-(U1-PC5-Pad28).
+Connected U1 pin 12 to /Red2.
+Connected U1 pin 4 to /Red1.
+Add net /VL.
+Connected U1 pin 25 to /VL.
+Connected U1 pin 26 to /IL.
+Add net /SCLK.
+Connected U1 pin 19 to /SCLK.
+Connected U1 pin 9 to Net-(U1-XTAL1/PB6).
+Connected U1 pin 7 to /+5Vcc.
+Connected U1 pin 10 to Net-(U1-XTAL2/PB7).
+Connected U1 pin 5 to /Green1.
+Add net unconnected-(U1-AREF-Pad21).
+Connected U1 pin 21 to unconnected-(U1-AREF-Pad21).
+Add net unconnected-(U1-PD5-Pad11).
+Connected U1 pin 11 to unconnected-(U1-PD5-Pad11).
+Connected U1 pin 1 to /!Reset.
+Connected U1 pin 22 to AGND.
+Add net unconnected-(U1-PC4-Pad27).
+Connected U1 pin 27 to unconnected-(U1-PC4-Pad27).
+Add net /!SS.
+Connected U1 pin 16 to /!SS.
+Connected U1 pin 24 to /IH.
+Add net /MOSI.
+Connected U1 pin 17 to /MOSI.
+Connected U1 pin 13 to /Green2.
+Add net /RXD.
+Connected U1 pin 2 to /RXD.
+Add net unconnected-(U1-PB0-Pad14).
+Connected U1 pin 14 to unconnected-(U1-PB0-Pad14).
+Add net /TXD.
+Connected U1 pin 3 to /TXD.
+Connected U1 pin 8 to AGND.
+Add net /ProReset.
+Connected U1 pin 6 to /ProReset.
+Connected U1 pin 20 to /+5Vcc.
+Add net /MISO.
+Connected U1 pin 18 to /MISO.
+Connected U1 pin 23 to /VH.
+Updated C3 sheetname to '/'.
+Added U4 (footprint 'Package_DIP:DIP-14_W7.62mm_LongPads').
+Changed REF** reference designator to U4.
+Changed U4 value from DIP-14_W7.62mm_LongPads to 74HC02.
+Updated U4 symbol association from  to /47f3dd7c-e333-494d-a658-e2807ce14aed.
+Updated U4 fields.
+Updated U4 sheetname to '/'.
+Updated U4 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated U4 footprint filters to 'SO14* DIP*W7.62mm*'.
+Add net unconnected-(U4E-VCC-Pad14).
+Connected U4 pin 14 to unconnected-(U4E-VCC-Pad14).
+Add net unconnected-(U4-Pad2).
+Connected U4 pin 2 to unconnected-(U4-Pad2).
+Add net unconnected-(U4-Pad4).
+Connected U4 pin 4 to unconnected-(U4-Pad4).
+Add net unconnected-(U4-Pad6).
+Connected U4 pin 6 to unconnected-(U4-Pad6).
+Add net unconnected-(U4-Pad5).
+Connected U4 pin 5 to unconnected-(U4-Pad5).
+Add net unconnected-(U4-Pad1).
+Connected U4 pin 1 to unconnected-(U4-Pad1).
+Add net unconnected-(U4-Pad3).
+Connected U4 pin 3 to unconnected-(U4-Pad3).
+Add net unconnected-(U4E-GND-Pad7).
+Connected U4 pin 7 to unconnected-(U4E-GND-Pad7).
+Updated C3 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated C3 footprint filters to 'C_*'.
+Added Vout(+)_GND1 (footprint 'TerminalBlock:TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm').
+Changed REF** reference designator to Vout(+)_GND1.
+Changed Vout(+)_GND1 value from TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm to Screw_Terminal_01x02.
+Updated Vout(+)_GND1 symbol association from  to /9fa58ecc-1419-4251-9db9-c115f334ded2.
+Updated Vout(+)_GND1 fields.
+Updated Vout(+)_GND1 sheetname to '/'.
+Updated Vout(+)_GND1 sheetfile to 'Atverter_Fly.kicad_sch'.
+Updated Vout(+)_GND1 footprint filters to 'TerminalBlock*:*'.
+Connected Vout(+)_GND1 pin 2 to PGND.
+Connected Vout(+)_GND1 pin 1 to Net-(D2-K).
+Connected C3 pin 1 to AGND.
+Warning: No net found for component U4 pad 12 (no pin 12 in symbol).
+Warning: No net found for component U4 pad 8 (no pin 8 in symbol).
+Warning: No net found for component U4 pad 10 (no pin 10 in symbol).
+Warning: No net found for component U4 pad 13 (no pin 13 in symbol).
+Warning: No net found for component U4 pad 11 (no pin 11 in symbol).
+Warning: No net found for component U4 pad 9 (no pin 9 in symbol).
+Warning: No net found for component D2 pad 3 (no pin 3 in symbol).
+Warning: No net found for component D1 pad 3 (no pin 3 in symbol).
+Error: Cannot add Header1 (footprint 'FlybackVE:FTDI_USB_TTL_Header' not found).
+Error: Cannot add D4 (footprint 'FlybackVE:LED_3pin_P2.54mm' not found).
+Error: Cannot add UC3836D1 (footprint 'FlybackVE:UC2836' not found).
+Error: Cannot add J1 (footprint 'FlybackVE:Raspberry_Pi_Zero_and_Four' not found).
+Error: Cannot add T1 (footprint 'FlybackVE:transformers' not found).
+Error: Cannot add D3 (footprint 'FlybackVE:LED_3pin_P2.54mm' not found).
+Error: Cannot add MAX6765 (footprint 'FlybackVE:Max6765' not found).
+Error: Cannot add C11 (no footprint assigned).
+Error: Cannot add R2 (no footprint assigned).
+Error: Cannot add RsenseL_1 (no footprint assigned).
+Error: Cannot add RsenseL_2 (no footprint assigned).
+Error: Cannot add Y1 (footprint 'FlybackVE:oscillator' not found).
+
+
+Info: Total warnings: 8, errors: 12.
