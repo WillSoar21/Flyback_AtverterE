@@ -1,1 +1,3 @@
 r1: created project for collaboration between schematic file and PCB file. Several footprints were missing or not linked, will need to be addressed in r2 
+r2: added the rest of the components, assigned proper nets and updated components
+changed xtal oscillator to 4-pad version (may not be connected correctly on schematic)
