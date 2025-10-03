@@ -3,3 +3,6 @@ r2: added the rest of the components, assigned proper nets and updated component
 changed xtal oscillator to 4-pad version (may not be connected correctly on schematic)
 r3: added footprint for R2, cleaned schematic a little and updated board (NEED to add optocoupler) 
 r4: mostly finished initial layout of components
+
+***IMPORTANTE: DO NOT USE PLACEHOLDER COMPONENTS OR ZONES WILL NOT FILL***
+KiCAD sucks
