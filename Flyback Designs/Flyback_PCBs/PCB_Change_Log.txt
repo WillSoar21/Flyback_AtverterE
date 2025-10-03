@@ -6,3 +6,5 @@ r4: mostly finished initial layout of components
 
 ***IMPORTANTE: DO NOT USE PLACEHOLDER COMPONENTS OR ZONES WILL NOT FILL***
 KiCAD sucks
+
+r5: finished mostly unrouted layout of PCB
