@@ -8,3 +8,4 @@ r4: mostly finished initial layout of components
 KiCAD sucks
 
 r5: finished mostly unrouted layout of PCB
+r6/r7: working on connections and laying copper
