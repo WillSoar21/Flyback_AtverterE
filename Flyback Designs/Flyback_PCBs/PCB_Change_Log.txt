@@ -9,3 +9,4 @@ KiCAD sucks
 
 r5: finished mostly unrouted layout of PCB
 r6/r7: working on connections and laying copper
+r8: finished trace work and ran DRC
